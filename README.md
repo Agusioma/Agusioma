@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello
+I am Terrence Aluda.
+An Android developer by specialization.
+
+During my free time, I convert UI designs to code on my [Instagram](https://www.instagram.com/tcreates_llc/) and write on [dev.to](https://dev.to/agusioma).
 
 <!--
 **Agusioma/Agusioma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
