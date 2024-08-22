@@ -1,5 +1,5 @@
 ### Hello
-I am Terrence Aluda, an Android developer by specialization.
+I am an Android developer by specialization.
 
 During my free time, I convert UI designs to code on my [Instagram](https://www.instagram.com/tcreates_llc/) and write on [dev.to](https://dev.to/agusioma).
 
