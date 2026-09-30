@@ -1,7 +1,7 @@
 ### Hello
-I am a Software developer (Android) and a technical writer.
+I am a Software developer (Android) and founder.
 
-During my free time, I convert UI designs to code on my [Instagram](https://www.instagram.com/tcreates_llc/) and write on [dev.to](https://dev.to/agusioma).
+During my free time, I convert UI designs to code on my [Instagram](https://www.instagram.com/tcreates_llc/).
 
 <!--
 **Agusioma/Agusioma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
