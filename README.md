@@ -1,5 +1,5 @@
 ### Hello
-I am a Software developer (Android) and founder.
+I am a Software developer (Android) and a founder.
 
 During my free time, I convert UI designs to code on my [Instagram](https://www.instagram.com/tcreates_llc/).
 
